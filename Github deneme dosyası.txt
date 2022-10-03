@@ -1,0 +1,1 @@
+bunu new branch olarak yükle sonra main e al
